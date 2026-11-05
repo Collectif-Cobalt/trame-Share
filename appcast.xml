@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/trame-Share</link>
     <description>Mises à jour de Trame</description>
     <item>
+      <title>Version 13.3.1</title>
+      <description><![CDATA[
+<h3>Mises à jour (Sparkle) lues dans l'organisation Collectif-Cobalt : le dépôt -Share y déménage</h3>
+      ]]></description>
+      <pubDate>Thu, 05 Nov 2026 23:49:26 +0000</pubDate>
+      <sparkle:version>28</sparkle:version>
+      <sparkle:shortVersionString>13.3.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/trame-Share/releases/download/v13.3.1/Trame-13.3.1.zip"
+                 sparkle:edSignature="Wwa8PVKz3YCcXalO6fvuyhCmSp3bV6V2eednfs2/2Woo4wn8L/x37qrLKaQijgP+6CrFZrELAj/XoLZzVtx9Dw=="
+                 length="9246438"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 13.3.0</title>
       <description><![CDATA[
 <h3>Trame 13.3.0 : Trame rejoint la suite Collectif Cobalt</h3>
