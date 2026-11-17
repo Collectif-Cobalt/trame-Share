@@ -5,6 +5,21 @@
     <link>https://github.com/gambidrissi-dev/trame-Share</link>
     <description>Mises à jour de Trame</description>
     <item>
+      <title>Version 13.4.0</title>
+      <description><![CDATA[
+<h3>Trame 13.4.0 : Trame dans la suite Collectif Cobalt</h3>
+<p>Notes de version - Le cartouche des planches prend la charte du collectif : la police DM Sans, et l'entreprise et le logo Cobalt quand aucune agence n'est saisie. - Un projet se rattache à un projet de Studio (feuille des planches) : le maître d'ouvrage et l'adresse se remplissent, et le métré part au hub à chaque enregistrement. - Le métré ne compte que les options retenues et, en rénovation, le neuf. - Corrigé : supprimer un étage avec un fond de plan, ou créer deux matériaux du même nom, empêchait d'enregistrer le projet. - Corrigé : revenir en arrière dans un projet en rénovation ne repasse plus l'existant en neuf ; une copie de fichier a son propre historique. - Corrigé : l'import d'un IFC à baie cintrée ou d'un DXF abîmé ne fait plus planter Trame. - Trame reste gratuite : le menu Licence disparaît.</p>
+      ]]></description>
+      <pubDate>Tue, 17 Nov 2026 22:30:58 +0000</pubDate>
+      <sparkle:version>29</sparkle:version>
+      <sparkle:shortVersionString>13.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/Collectif-Cobalt/trame-Share/releases/download/v13.4.0/Trame-13.4.0.zip"
+                 sparkle:edSignature="KuQApcQFENLwz6ga9jxAyG4gEzBtqAIzDyqdQokWi7GrFb90L5gxcI1luZBV/DuGERNxo+UXB6CWoUQc4N9nCA=="
+                 length="9627755"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 13.3.1</title>
       <description><![CDATA[
 <h3>Mises à jour (Sparkle) lues dans l'organisation Collectif-Cobalt : le dépôt -Share y déménage</h3>
