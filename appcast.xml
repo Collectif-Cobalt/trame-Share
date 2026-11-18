@@ -5,6 +5,21 @@
     <link>https://github.com/gambidrissi-dev/trame-Share</link>
     <description>Mises à jour de Trame</description>
     <item>
+      <title>Version 13.8.0</title>
+      <description><![CDATA[
+<h3>Trame 13.8.0 : phases et versions, toute la vie du projet dans le même fichier</h3>
+<p>Notes de version - Projet › Phases et versions… : l'état des lieux, puis les esquisses qui en partent, les avant-projets, jusqu'à l'exécution. Chaque version part d'une autre, se fige, se retient, se compare. - Depuis l'état des lieux, ce qu'on reprend est « existant » et ce qu'on dessine ensuite est « neuf ». - La version ouverte est rappelée dans le titre, le cartouche des planches et le métré envoyé à Studio.</p>
+      ]]></description>
+      <pubDate>Wed, 18 Nov 2026 21:57:16 +0000</pubDate>
+      <sparkle:version>33</sparkle:version>
+      <sparkle:shortVersionString>13.8.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/Collectif-Cobalt/trame-Share/releases/download/v13.8.0/Trame-13.8.0.zip"
+                 sparkle:edSignature="JFDepgiWRUjZ2nosrzKo2exydcj58C/kcoMZ1A1g4AtsoFalNmtelwfuqQgjK1r9/jjsu91w3+Udb6H10VXPCQ=="
+                 length="9818854"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 13.7.0</title>
       <description><![CDATA[
 <h3>Trame 13.7.0 : portes et fenêtres en détail, avec l'aperçu</h3>
