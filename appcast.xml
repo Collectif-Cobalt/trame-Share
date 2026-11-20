@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/trame-Share</link>
     <description>Mises à jour de Trame</description>
     <item>
+      <title>Version 13.10.0</title>
+      <description><![CDATA[
+<h3>Test d'interface : le rendu en arrière-plan s'enregistre par un chemin complet, et le test accepte « FOND.PNG » (sous macOS 27, ce qui est tapé après ⇧⌘G arrive en capitales)</h3>
+      ]]></description>
+      <pubDate>Fri, 20 Nov 2026 01:26:19 +0000</pubDate>
+      <sparkle:version>35</sparkle:version>
+      <sparkle:shortVersionString>13.10.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/Collectif-Cobalt/trame-Share/releases/download/v13.10.0/Trame-13.10.0.zip"
+                 sparkle:edSignature="vSWwJONH5ECqCEEIF7cOXFvqqSHh0G/6u0gDjDspIbaruxM6Fdle1/EKwk/eB84Won9rKL+iTDtn8kJx9KN7CQ=="
+                 length="9961111"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 13.9.0</title>
       <description><![CDATA[
 <h3>Trame 13.9.0 : l'escalier le long d'un mur</h3>
