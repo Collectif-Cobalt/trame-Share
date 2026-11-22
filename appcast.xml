@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/trame-Share</link>
     <description>Mises à jour de Trame</description>
     <item>
+      <title>Version 13.11.0</title>
+      <description><![CDATA[
+<h3>Fichier .trame abîmé ou plus récent : il s'ouvre et ne s'écrase pas — les tables se lisent ligne par ligne (une ligne illisible est écartée avec ce qui en dépendait, comptée par table et dite à l'ouverture), et le projet s'ouvre protégé : pas de modification, l'enregistrement par-dessus un fichier est refusé avec un message clair, Fichier › Enregistrer une copie… écrit ce qui a été lu dans un nouveau fichier ; chaque enregistrement pose « ecriture_min » (la version qui écrit) dans meta, et une Trame plus ancienne ouvre ce fichier protégé (schéma inchangé, la 13.10.1 le lit comme avant)</h3>
+      ]]></description>
+      <pubDate>Sun, 22 Nov 2026 19:17:53 +0000</pubDate>
+      <sparkle:version>37</sparkle:version>
+      <sparkle:shortVersionString>13.11.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/Collectif-Cobalt/trame-Share/releases/download/v13.11.0/Trame-13.11.0.zip"
+                 sparkle:edSignature="xYsO8839JfsPSL2nCGYhEnmKYUMT9WPHWR6HFZdFaeE7fQ9JZWz2Mg7OekwVDK4xXxPp6yOWblrDPCYn8NcxBg=="
+                 length="10064147"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 13.10.1</title>
       <description><![CDATA[
 <h3>Fichier .trame : rien ne se perd en silence — une liste se lit élément par élément (un élément illisible est écarté, gardé tel quel et réécrit à l'enregistrement, la fenêtre le dit à l'ouverture) ; un encodage raté fait échouer l'enregistrement au lieu d'écrire du vide, un réglage qui ne s'encode pas garde sa valeur d'avant, et l'erreur dit ce qui s'est passé</h3>
