@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/trame-Share</link>
     <description>Mises à jour de Trame</description>
     <item>
+      <title>Version 13.10.1</title>
+      <description><![CDATA[
+<h3>Fichier .trame : rien ne se perd en silence — une liste se lit élément par élément (un élément illisible est écarté, gardé tel quel et réécrit à l'enregistrement, la fenêtre le dit à l'ouverture) ; un encodage raté fait échouer l'enregistrement au lieu d'écrire du vide, un réglage qui ne s'encode pas garde sa valeur d'avant, et l'erreur dit ce qui s'est passé</h3>
+      ]]></description>
+      <pubDate>Sun, 22 Nov 2026 17:52:21 +0000</pubDate>
+      <sparkle:version>36</sparkle:version>
+      <sparkle:shortVersionString>13.10.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/Collectif-Cobalt/trame-Share/releases/download/v13.10.1/Trame-13.10.1.zip"
+                 sparkle:edSignature="dlOcEBHD4y1+NZ2hooP6qmWuWOiNSUE6izwiVNg14LjNzgOtFdWEf3x14kykTLZRDGbXEsjUsn1hwE+s+/6zAA=="
+                 length="10039533"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 13.10.0</title>
       <description><![CDATA[
 <h3>Test d'interface : le rendu en arrière-plan s'enregistre par un chemin complet, et le test accepte « FOND.PNG » (sous macOS 27, ce qui est tapé après ⇧⌘G arrive en capitales)</h3>
