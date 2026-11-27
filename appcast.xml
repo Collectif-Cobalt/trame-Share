@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/trame-Share</link>
     <description>Mises à jour de Trame</description>
     <item>
+      <title>Version 14.0.0</title>
+      <description><![CDATA[
+<h3>Test d'interface : presser le segment d'un sélecteur (Image / Nœuds, Modeler / Imprimer), l'espace Image vérifié par son image</h3>
+      ]]></description>
+      <pubDate>Fri, 27 Nov 2026 23:03:15 +0000</pubDate>
+      <sparkle:version>38</sparkle:version>
+      <sparkle:shortVersionString>14.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/Collectif-Cobalt/trame-Share/releases/download/v14.0.0/Trame-14.0.0.zip"
+                 sparkle:edSignature="0dk/JbMK2+8BF0ygm1VRrtn/EqjajJGCWt55b6Rk7g05hIqf3N9LLjlnDlIY68hXokzXP4H8Jfj+pWRZKbVaBg=="
+                 length="10238880"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 13.11.0</title>
       <description><![CDATA[
 <h3>Fichier .trame abîmé ou plus récent : il s'ouvre et ne s'écrase pas — les tables se lisent ligne par ligne (une ligne illisible est écartée avec ce qui en dépendait, comptée par table et dite à l'ouverture), et le projet s'ouvre protégé : pas de modification, l'enregistrement par-dessus un fichier est refusé avec un message clair, Fichier › Enregistrer une copie… écrit ce qui a été lu dans un nouveau fichier ; chaque enregistrement pose « ecriture_min » (la version qui écrit) dans meta, et une Trame plus ancienne ouvre ce fichier protégé (schéma inchangé, la 13.10.1 le lit comme avant)</h3>
