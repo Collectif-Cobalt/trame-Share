@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/trame-Share</link>
     <description>Mises à jour de Trame</description>
     <item>
+      <title>Version 14.1.0</title>
+      <description><![CDATA[
+<h3>Le nœud IA de la retouche : une consigne (écrite ou choisie), « Lancer l'IA » envoie l'image qui arrive au nœud à Google Gemini (Nano Banana) et la réponse rejoint le graphe — sa part se dose, un masque la limite à une zone ; clé dans le Trousseau, modèle au choix dans Réglages › Assistant ; la réponse vaut pour le rendu en cours</h3>
+      ]]></description>
+      <pubDate>Fri, 27 Nov 2026 23:40:55 +0000</pubDate>
+      <sparkle:version>39</sparkle:version>
+      <sparkle:shortVersionString>14.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/Collectif-Cobalt/trame-Share/releases/download/v14.1.0/Trame-14.1.0.zip"
+                 sparkle:edSignature="frRk1kyCx0VYMHoIuQpcgR8s3AJ015lmRvuHRLRibzr6cUAOYc1H0bJI0/VVRS+Moi8+aQHzEiyxuW9R0NMUCQ=="
+                 length="10270375"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 14.0.0</title>
       <description><![CDATA[
 <h3>Test d'interface : presser le segment d'un sélecteur (Image / Nœuds, Modeler / Imprimer), l'espace Image vérifié par son image</h3>
