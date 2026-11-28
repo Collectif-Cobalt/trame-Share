@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/trame-Share</link>
     <description>Mises à jour de Trame</description>
     <item>
+      <title>Version 14.2.0</title>
+      <description><![CDATA[
+<h3>Masque par matière (le rendu donne la matière vue par chaque pixel ; un nœud en tire le masque exact d'un matériau du projet), recettes de retouche gardées sous un nom pour tous les projets, et la maquette du projet à imprimer (le bâtiment sans terrain ni mobilier devient un objet, ouvert dans Imprimer au 1:50, 1:100 ou 1:200)</h3>
+      ]]></description>
+      <pubDate>Sat, 28 Nov 2026 00:07:55 +0000</pubDate>
+      <sparkle:version>40</sparkle:version>
+      <sparkle:shortVersionString>14.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/Collectif-Cobalt/trame-Share/releases/download/v14.2.0/Trame-14.2.0.zip"
+                 sparkle:edSignature="VuySqlaO9BV5nGykmqoadGE5zrotj3u6fitaBZ8h6chmNGP56bYCUBa2jBPw/daRNj3STBeGyjyW1r8XtTJTCQ=="
+                 length="10296412"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 14.1.0</title>
       <description><![CDATA[
 <h3>Le nœud IA de la retouche : une consigne (écrite ou choisie), « Lancer l'IA » envoie l'image qui arrive au nœud à Google Gemini (Nano Banana) et la réponse rejoint le graphe — sa part se dose, un masque la limite à une zone ; clé dans le Trousseau, modèle au choix dans Réglages › Assistant ; la réponse vaut pour le rendu en cours</h3>
