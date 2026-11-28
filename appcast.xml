@@ -5,6 +5,20 @@
     <link>https://github.com/gambidrissi-dev/trame-Share</link>
     <description>Mises à jour de Trame</description>
     <item>
+      <title>Version 14.3.0</title>
+      <description><![CDATA[
+<h3>Pour l'impression 3D : vis, tiges filetées et écrous métriques (M6 à M30), l'outil Tube du modeleur (le long des arêtes choisies, d'onglet aux coudes), l'analyse des parois plus juste (un coin aigu n'est pas une paroi) et plus rapide ; l'IA d'image servie en local par un ComfyUI de l'agence (adresse et workflow dans Réglages › Assistant)</h3>
+      ]]></description>
+      <pubDate>Sat, 28 Nov 2026 00:48:41 +0000</pubDate>
+      <sparkle:version>41</sparkle:version>
+      <sparkle:shortVersionString>14.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/Collectif-Cobalt/trame-Share/releases/download/v14.3.0/Trame-14.3.0.zip"
+                 sparkle:edSignature="PkWRUOOXJTQRJRdrZUDz4g2DT8H3grWkPd15WNw3tRHrz8USf5cdflPUcknSzqUTN6YBCPW9dGKBChIRLEPHCg=="
+                 length="10399065"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 14.2.0</title>
       <description><![CDATA[
 <h3>Masque par matière (le rendu donne la matière vue par chaque pixel ; un nœud en tire le masque exact d'un matériau du projet), recettes de retouche gardées sous un nom pour tous les projets, et la maquette du projet à imprimer (le bâtiment sans terrain ni mobilier devient un objet, ouvert dans Imprimer au 1:50, 1:100 ou 1:200)</h3>
